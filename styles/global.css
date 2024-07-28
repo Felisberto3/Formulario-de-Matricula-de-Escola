@@ -27,4 +27,16 @@
 
 body {
       overflow: hidden;
+      font: var(--text);
+      color: var(--text-secondary);
+
+}
+
+h1, h2 {
+      color: var(--text-primary);
+}
+
+img {
+      max-width: 100%;
+      height: auto;
 }
